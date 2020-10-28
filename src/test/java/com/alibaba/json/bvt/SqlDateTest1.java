@@ -13,10 +13,10 @@ import com.alibaba.fastjson.serializer.SerializerFeature;
 import junit.framework.TestCase;
 
 public class SqlDateTest1 extends TestCase {
-    protected void setUp() throws Exception {
-        JSON.defaultTimeZone = TimeZone.getTimeZone("Asia/Shanghai");
-        JSON.defaultLocale = new Locale("zh_CN");
-    }
+    //protected void setUp() throws Exception {
+     //   JSON.defaultTimeZone = TimeZone.getTimeZone("Asia/Shanghai");
+     //   JSON.defaultLocale = new Locale("zh_CN");
+    //}
     
     //public void test_date() throws Exception {
     //    long millis = 1324138987429L;

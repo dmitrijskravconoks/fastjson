@@ -29,5 +29,5 @@ public class Issue3436 extends TestCase {
         public FileSystemResourceMixedIn(String path) {
 
         }
-   //}
+   }
 }

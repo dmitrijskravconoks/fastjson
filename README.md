@@ -1,4 +1,4 @@
-#simple test hookevavavavavaVA
+
 # fastjson
 
 [![Build Status](https://travis-ci.org/alibaba/fastjson.svg?branch=master)](https://travis-ci.org/alibaba/fastjson)
